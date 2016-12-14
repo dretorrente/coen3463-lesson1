@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Gino Tria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dretorrente/coen3463-lesson1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dretorrente/coen3463-lesson1/issues"
+  },
+  "homepage": "https://github.com/dretorrente/coen3463-lesson1#readme",
+  "description": ""
+}
